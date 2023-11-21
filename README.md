@@ -67,7 +67,7 @@ Finally, you can search vistoryboard and enable this extension.
 
 ## Usage
 
-![Image text](README.assets\02.png)
+![Image text](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/02.png?raw=true)
 
 1. load or new project.
 
@@ -82,12 +82,12 @@ onclick "Genereate" button, please wait.
 3. You can modify the duration of the picture you want to play in the list, seconds
 
 
-![Image text](README.assets\03.png)
+![Image text](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/03.png?raw=true)
 
 
 4. Select the picture you want, click the ToViewport button in the lower right corner and create USD, switch to Viewport window and Top view, call up the timeline window to play.
 
-![Image text](README.assets\04.png)
+![Image text](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/04.png?raw=true)
 
 
 5. The Save as mp4 File button will generate mp4 video files to the omni.kit.storyboard.7DVision\resources\asset folder, Pay attention to setting the timerange of Movie Capture.
