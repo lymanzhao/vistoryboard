@@ -96,12 +96,19 @@ onclick "Genereate" button, please wait.
 ## Parameter
 
   Prompt: Shot content, using Stable diffusion XL style prompt words.
+  
   Prompt: Troubleshoot incorrect picture content or picture quality.
+  
   Width: image width, 1024 pixels or so.
+  
   Height: image height, 1024 pixels or so.
+  
   Sampler: Different Samplers have different sensitivities to prompt words.
+  
   Weight： the artistic weight of Storyboard art style, default 0.8,0 means none, 1.8 means very heavy.
+  
   Count： the number of images generated in batches at one time.
+  
   Seed： random value, default -1 is a random number.
   Step： the number of sampling steps, higher numbers may have more real details.
 
