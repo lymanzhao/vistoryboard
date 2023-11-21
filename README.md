@@ -60,14 +60,14 @@ An Nvidia Omniverse Extension App is available, offering partners of the Omniver
 2. **[Add this extension to Omniverse]** Click the Extension Serch Path Setting button and add absolute extension path to `Extension Search Paths`
 
 
-![alt text](README.assets\01.png)
+![Image text](README.assets\01.png)
 
 Finally, you can search vistoryboard and enable this extension.
 
 
 ## Usage
 
-![alt text](README.assets\02.png)
+![Image text](README.assets\02.png)
 
 1. load or new project.
 
@@ -82,12 +82,12 @@ onclick "Genereate" button, please wait.
 3. You can modify the duration of the picture you want to play in the list, seconds
 
 
-![alt text](README.assets\03.png)
+![Image text](README.assets\03.png)
 
 
 4. Select the picture you want, click the ToViewport button in the lower right corner and create USD, switch to Viewport window and Top view, call up the timeline window to play.
 
-![alt text](README.assets\04.png)
+![Image text](README.assets\04.png)
 
 
 5. The Save as mp4 File button will generate mp4 video files to the omni.kit.storyboard.7DVision\resources\asset folder, Pay attention to setting the timerange of Movie Capture.
