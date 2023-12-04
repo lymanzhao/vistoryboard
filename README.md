@@ -61,6 +61,7 @@ An Nvidia Omniverse Extension App is available, offering partners of the Omniver
 
 
 ![image](README.assets\01.png)
+![image]([README.assets\01.png](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/01.png?raw=true))
 
 Finally, you can search vistoryboard and enable this extension.
 
