@@ -60,14 +60,14 @@ An Nvidia Omniverse Extension App is available, offering partners of the Omniver
 2. **[Add this extension to Omniverse]** Click the Extension Serch Path Setting button and add absolute extension path to `Extension Search Paths`
 
 
-![alt text](README.assets\01.png)
+![image](README.assets\01.png)
 
 Finally, you can search vistoryboard and enable this extension.
 
 
 ## Usage
 
-![alt text](README.assets\02.png)
+![image](README.assets\02.png)
 
 1.load or new project.
 
@@ -82,7 +82,7 @@ onclick "Genereate" button, please wait.
 4.You can modify the duration of the picture you want to play in the list, seconds
 
 
-![alt text](README.assets\03.png)
+![image](README.assets\03.png)
 
 
 
@@ -90,28 +90,28 @@ onclick "Genereate" button, please wait.
 
 5.You can load the USD scene we made and use it. Load Sample Scene in the menu in the upper right corner and it will be loaded automatically.
 
-![alt text](README.assets\05.png)
+![image](README.assets\05.png)
 
 Display a theater scene in the viewport:
 
-![alt text](README.assets\06.png)
+![image](README.assets\06.png)
 
 
 
 6.Select the picture you want, click the ToViewport button in the lower right corner and create USD, switch to Viewport window and Top view, call up the timeline window to play.
 
-![alt text](README.assets\04.png)
+![image](README.assets\04.png)
 
 You can also select the Mesh in the scene and assign the picture to be played as a texture to the mesh, such as a movie curtain or a TV set in the scene.
 
-![alt text](README.assets\06.png)
+![image](README.assets\06.png)
 
-![alt text](README.assets\07.png)
+![image](README.assets\07.png)
 
 [^]: The problem found is that sometimes there is a delay. The USDtoViewport button is delayed. You can wait or click more.
 [^]: Modify the specular attribute of the material and reduce it to 0
 
-![alt text](README.assets\08.png)
+![image](README.assets\08.png)
 
 
 
