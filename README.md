@@ -109,8 +109,6 @@ Display a theater scene in the viewport:
 
 You can also select the Mesh in the scene and assign the picture to be played as a texture to the mesh, such as a movie curtain or a TV set in the scene.
 
-![image](README.assets\06.png)
-![](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/06.png)
 
 ![image](README.assets\07.png)
 ![](https://github.com/lymanzhao/vistoryboard/blob/main/README.assets/07.png)
