@@ -6,6 +6,9 @@
 
 # Tell Captivating Stories with Generative AI
 
+https://www.7d-vision.com/products/vi-storyboard
+
+
 ViStoryboard is a creative tool that is developed using our proprietary generative AI technology. By converting scripts and other text descriptions into visual storyboards, ViStoryboard can help you to convey your story ideas with freedom and ease.  
 
 ViStoryboard can generates storyboards that are compatible with timeline sequences and project files. This feature is highly convenient for the post-production department to work with the content.
@@ -58,16 +61,16 @@ An Nvidia Omniverse Extension App is available, offering partners of the Omniver
 
 ## 预安装
 1）
-注册下载英伟达 Omniverse Laucher 软件
+ Omniverse Laucher 
 
 https://www.nvidia.cn/omniverse/
 
-下载完成以后默认安装，登录需要邮箱激活。
+
 
 
 2）
 
-启动 Omniverse Laucher 后进入交易所，搜索 composer 安装 Omniverse USD Composer.
+install Omniverse USD Composer.
 
 
 ## Add extension to Omniverse
